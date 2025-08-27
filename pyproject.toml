@@ -1,0 +1,21 @@
+[project]
+name = "ComfyUI-Reflatent"
+description = "NODES:Reflatent"
+version = "0.1.0"
+license = {text = "Apache-2.0 license}
+dependencies  = []
+
+[project.urls]
+Repository = "https://github.com/sweetndata/ComfyUI-Reflatent"
+
+[tool.comfy]
+PublisherId = "sweetndata"
+DisplayName = "ComfyUI-Reflatent"
+Icon = ""
+
+[tool.poetry]
+name = "ComfyUI-Reflatent"
+version = "0.1.0"
+description = ""
+authors = ["Jason Sim <sjskoko@gmail.com>"]
+readme = "README.md"
